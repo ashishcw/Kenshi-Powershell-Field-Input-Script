@@ -11,3 +11,4 @@ This is simple powershell script to update the kenshi save file stats for savega
 6. Start the powershell script and change the active window to Kenshi Modding Tool Window
 7. Wait for 10 seconds and script should begin editing the copied value
 8. PLEASE NOTE - THIS WORKS ON ANY ACTIVE WINDOW, SO IF YOU ACCIDENTLY OPEN SOME OTHER WINDOW, THIS SCRIPT WILL TRY TO PERFORM BELOW OPERATIONS(CONTROL KEY + V KEY(PASTE) -> ENTER KEY PRESS -> DOWN KEY PRESS -> ENTER KEY PRESS), USE AT YOUR OWN RISK
+For Video Demo - Check the link
